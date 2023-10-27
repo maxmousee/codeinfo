@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.0-SNAPSHOT</version>
+		<version>3.1.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nfsindustries</groupId>
@@ -15,7 +15,7 @@
 	<description>Cool code insights about your project</description>
 	<properties>
 		<java.version>17</java.version>
-		<kotlin.version>1.7.10</kotlin.version>
+		<kotlin.version>1.9.10</kotlin.version>
 	</properties>
 	<dependencies>
 		<dependency>
